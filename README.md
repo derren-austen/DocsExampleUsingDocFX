@@ -1,0 +1,2 @@
+# DocsExampleUsingDocFX
+Trying out DocFX
